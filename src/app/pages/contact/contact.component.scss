@@ -1,0 +1,25 @@
+// .contact-page {
+//   &__contact-ways {
+//     display: flex;
+//     width: 80%;
+//     border: 1px solid red;
+//     justify-content: center;
+//     align-items: center;
+//     padding-left: 135px;
+//   }
+// }
+.contact-page {
+  &__main {
+    height: 300px;
+  }
+  &__contact-ways {
+    display: flex;
+    justify-content: center;
+    background-color: #000;
+  }
+  &__contact-container {
+    width: 60%;
+    display:  flex;
+    justify-content: space-between;
+  }
+}

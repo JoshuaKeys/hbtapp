@@ -1,0 +1,31 @@
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100%;
+  }
+  
+  #about-info .info-right img {
+    display: block;
+    margin: auto;
+    width: 70%;
+    border-radius: 50%;
+  }
+  
+  #about-info .info-left {
+    float: left;
+    width: 50%;
+    min-height: 100%;
+  }
+
+  #testimonials {
+    height: 100%;
+    background: url('../../../assets/img/test-bg.jpg') no-repeat center center/cover;
+    padding-top: 100px;
+  }
+  
+  #testimonials h2 {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  
